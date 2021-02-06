@@ -1,0 +1,2 @@
+language = "pyton3"
+run = "pyton vlasov.py"
